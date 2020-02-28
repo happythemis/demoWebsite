@@ -1,0 +1,25 @@
+/* .List {
+  text-align: right;
+} */
+
+/* :local(li) {
+  text-align: right;
+} */
+/* nav.ListNav {
+  text-align: left;
+}
+ui.ListUI {
+  text-align: center;
+} */
+/* nav1 {
+  display : flex;
+  justify-content: space-around;
+  align-items: left;
+  background: rgb(252, 186, 3);
+}
+li {
+  display : flex;
+  justify-content: space-around;
+  align-items: center;
+  background: rgb(100, 100, 200);
+} */
